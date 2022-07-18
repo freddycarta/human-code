@@ -1,13 +1,14 @@
-### il regalo perfetto
+#Comprare su Amazon
+###Il Regalo perfetto
 
--stilo una lista dei regali per Silvia
--ordino la lista dal primo al più interessante
--Vado su Amazon
-PER ogni prodotto a partire dal primo faccio una ricerca
-    SE il prezzo rientra nel budget E ha la consegna prime
-           -inserisco il prodotto nel carrello
-           -aggiungo prodotto al carrello
-    ALTRIMENTI 
-            -passo al successivo
--Concludo l'ordine
--Acquisto il prodotto
+-stilo una lista dei regali preferiti di Silvia
+-ordino la lista dal preferito al meno interessante
+-apro Amazon.it
+-PER ogni prodotto partendo dal primo della lista faccio una ricerca
+    -SE il prezzo rientra nel budget E ha la consegna prime
+        -inserisco il prodotto nel carrello 
+        -termino la ricerca
+    -ALTRIMENTI
+        -passo al successivo nella lista
+-concludo l'ordine
+-acquisto il prodotto
